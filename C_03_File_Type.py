@@ -38,8 +38,7 @@ while True:
         else:
             file_type = "image"
 
-
-        print(f"You chose {file_type}")
+    print(f"You chose {file_type}")
 
     if file_type == "xxx":
         break
